@@ -3,7 +3,7 @@
 This repo contains PyTorch codes for the experiments on image classification in the paper:
 
 **[Understanding AdamW through Proximal Methods and Scale-freeness](https://arxiv.org/abs/2202.00089)**  
-Zhenxun Zhuang, Mingrui Liu, Ashok Cutkosky, Francesco Orabona. Transactions on Machine Learning Research.
+Zhenxun Zhuang, Mingrui Liu, Ashok Cutkosky, Francesco Orabona. Transactions on Machine Learning Research, 2022.
 
 ### Description
 
